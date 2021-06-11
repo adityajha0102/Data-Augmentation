@@ -8,4 +8,4 @@ In order to start with the Image Data augmentation just clone this repository. O
 
 # How does it work
 
-Create a folder named images in this folder and place all your images in it. Now open the code and follow the instructions given as comments in the python main file. Comment out all the augmentation method that you might not need according to your problem statement for your project. Then make all the changes in the parameters according to the comments. After making all the necessary changes, just run the code and you are done.
+Create a folder named images in your data augmentation folder and place all your images in it. Now open the code and follow the instructions given as comments in the python main file. Comment out all the augmentation method that you might not need according to your problem statement for your project. Then make all the necessary changes in the parameters according to the quality of your images. After making all the necessary changes, just run the code and you are done.
