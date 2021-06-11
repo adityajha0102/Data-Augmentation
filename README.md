@@ -1,6 +1,6 @@
 # Data-Augmentation
 
-Augment all your image dataset in a folder by just using the pillow library
+Augment all your images in a folder by just using the pillow library
 
 ## Getting Started
 
